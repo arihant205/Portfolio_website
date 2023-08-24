@@ -1,0 +1,32 @@
+html{
+    font-size: 20px;
+}
+.title_bg{
+    background-image: url(./assests/title_bg.png);
+   
+}
+h1{
+    color: white;
+    font-family: sans-serif;
+    font-weight: bolder;
+    font-size: 4rem;
+}
+.title-2{
+    color: white;
+    font-size: 2rem;
+    font-family: cursive;
+    font-weight: lighter;
+}
+.middle{
+    color: #0C356A;
+}
+.profile_img{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}
+a{
+    text-decoration: none;
+    color: white;
+    
+}
